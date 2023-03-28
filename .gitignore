@@ -1,0 +1,26 @@
+# .gitignore : All subdirectories and file and or file types to which are to be ignored when using git in any capacity.
+# This includes (but probably isn't limited to) "git add", "git clone", "git pull", "git push", etc.
+# * = Wildcard. (ie: *.bak, *.log, debug-*, etc)
+# File extensions: To ignore all files with a specific extension, such as .log or .exe.
+# Directories: To ignore all files in a specific directory, such as node_modules or build.
+# Negation: To override an earlier ignore rule, for example, to ignore all files in a directory except for a specific file.
+
+
+
+# Build Artifacts
+
+build/
+dist/
+
+# Virtual Enviroment Files
+
+venv/
+.venv/
+env/
+.env/
+
+# Other Files
+
+*.log
+.cache/
+.tmp/
