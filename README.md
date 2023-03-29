@@ -8,19 +8,19 @@ Program also allows for broad customization of Catagories, Identity Titles (IDEN
 
 Example seen below ...
 
->D_BBI
-	>Persona
-		>Catagory:("General")
-			>IDENT:("Myspace")
-				>Field:("Username")
-					>'USER-INPUT'
-				>Field:("Password")
-					>'USER-INPUT'
-				>Field:("Associated Email Address")
-					>'USER-INPUT'
-				>Field:("Associated URLs")
-					>'USER-INPUT'
-					>'USER-INPUT'
+->D_BBI
+	->Persona
+		->Catagory:("General")
+			->IDENT:("Myspace")
+				->Field:("Username")
+					->'USER-INPUT'
+				->Field:("Password")
+					->'USER-INPUT'
+				->Field:("Associated Email Address")
+					->'USER-INPUT'
+				->Field:("Associated URLs")
+					->'USER-INPUT'
+					->'USER-INPUT'
 				...(*And so on as needed...)
 				
 				
