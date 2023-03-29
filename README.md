@@ -53,12 +53,16 @@ Note: Encryption will be supported by way of a password protected Persona. Altho
 
 _//:> As of 03.28.2023.5@10.00a:
 
--The D_BBI Project was started in mid 2023 and until otherwise stated here will continue to be updated to keep up with any stable builds developed.
- -This project is really more for my own personal private usage as I'm getting really very tired of writing all of this out on sheets of paper and cataloging them in a binder. Not to mention the security problems such a tactic creates...
--Most of what has been discribed above and throughout this document as of the date refrenced above this list is but design on paper alone unfourtantely. It has been layed out though and now the education to convert the brainstorming and work done on paper and other documentation into code making up a program with all features intact can take place.
--Fair warning to any that may have stumbled upon this project for whatever reason; it is likely not to be even close to usable for quite some time. I will however update the above information as well as continue to record any Ramble On's pertainate to the project. So if you do find this interesting, well firstly ~you is awesome thanks~ lol - but more importantly secondly feel free to check back here for any updates to the project.
--Any questions, thoughts, or inquiry one may like to put forth concerning the D_BBI Project can be emailed to "RightRat.D_BBI@mail.com" and I'll endevor to respond as soon as I am able to. Thanks!~
+•The D_BBI Project was started in mid 2023 and until otherwise stated here will continue to be updated to keep up with any stable builds developed.
+
+•This project is really more for my own personal private usage as I'm getting really very tired of writing all of this out on sheets of paper and cataloging them in a binder. Not to mention the security problems such a tactic creates...
+
+•Most of what has been discribed above and throughout this document as of the date refrenced above this list is but design on paper alone unfourtantely. It has been layed out though and now the education to convert the brainstorming and work done on paper and other documentation into code making up a program with all features intact can take place.
+
+•Fair warning to any that may have stumbled upon this project for whatever reason; it is likely not to be even close to usable for quite some time. I will however update the above information as well as continue to record any Ramble On's pertainate to the project. So if you do find this interesting, well firstly \~you is awesome thanks\~ lol - but more importantly secondly feel free to check back here for any updates to the project.
+
+•Any questions, thoughts, or inquiry one may like to put forth concerning the D_BBI Project can be emailed to "RightRat.D_BBI@mail.com" and I'll endevor to respond as soon as I am able to. Thanks!~
 
 ---
 
-|\\:>[END]
+|\\\\:>[END]
