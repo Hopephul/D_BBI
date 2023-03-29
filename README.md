@@ -8,33 +8,33 @@ Program also allows for broad customization of Catagories, Identity Titles (IDEN
 
 Example seen below ...
 
-► D_BBI
+	► D_BBI
 
-	► Persona
+		► Persona
 
-		► Catagory:("General")
+			► Catagory:("General")
 
-			► IDENT:("Myspace")
+				► IDENT:("Myspace")
 
-				► Field:("Username")
+					► Field:("Username")
 
-					► 'USER-INPUT'
+						► 'USER-INPUT'
 
-				► Field:("Password")
+					► Field:("Password")
 
-					► 'USER-INPUT'
+						► 'USER-INPUT'
 
-				► Field:("Associated Email Address")
+					► Field:("Associated Email Address")
 
-					► 'USER-INPUT'
+						► 'USER-INPUT'
 
-				► Field:("Associated URLs")
+					► Field:("Associated URLs")
 
-					► 'USER-INPUT'
+						► 'USER-INPUT'
 
-					► 'USER-INPUT'
+						► 'USER-INPUT'
 
-				...(*And so on as needed...)
+...(*And so on as needed...)
 				
 				
 ---
